@@ -1,0 +1,8 @@
+Tuscan
+Sorry that I missed your message here. I wrote comments in the document as annotations. I copy them here in case they are not shown to you correctly. Let me know if you had any questions. CLV calculation: In this cell (Year 1 : revenues or sales), you should also multiply by the average number of orders per customer. You have used the number of active customers instead, which changes the results. (-0.5) For marketing changes: You say that we could completely stop sending catalogs to group one so that the second term gets zero and we get positive CLVs. However, If we don't put any marketing effort in the following years, the customer is also expected not to buy in those years. So we should only focus on the first year which still has negative profit in the first year. The better approach here is to not completely stop the marketing, 
+but to reduce the frequency of mailings. (-0.5)
+
+Filtering
+
+They should be as annotations in the file. I will copy them here. Let me know if there was any problems. Q1: For users other than Toby, we have their data for new games, so we should take them into account when calculating the average. (-0.25) Q2: When calculating basket measures, we should only look at the data without considering Toby. That's because we don't have the data for Toby on new games and we are aggregating data from past and new movies. (-0.25) Q2: We should only look at the old games that Toby has watched, 
+Toby didn't rent Tomb Raider so we should not recommend items based on that. (-0.5)
